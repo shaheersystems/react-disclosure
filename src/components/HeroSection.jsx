@@ -12,7 +12,8 @@ function HeroSection() {
         experience.
       </p>
       <a
-        href='/'
+        target='_blank'
+        href='https://github.com/shaheersystems/react-disclosure'
         className='font-semibold flex items-center gap-2 px-5 py-2 bg-blue-900 hover:bg-blue-600 text-white rounded-full'
       >
         Repository Link
